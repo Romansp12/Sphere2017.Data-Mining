@@ -22,7 +22,7 @@
 ## Возможные темы проекта:
 | Название темы       | Цель                | Ссылка на датасет |
 | ------------- | :------------------: | :-----: |
-| Определение темы текста | Определение темы текста. Для автоматического распределения по темам|   https://www.kaggle.com/patjob/articlescrape https://www.kaggle.com/asad1m9a9h6mood/news-articles |
 | Настроение пользователей банка | Определить доволен ли пользователь,по нескольким сотням анонимных признаков | https://www.kaggle.com/c/santander-customer-satisfaction/data |
+| Определение темы текста | Определение темы текста. Для автоматического распределения по темам|   https://www.kaggle.com/patjob/articlescrape https://www.kaggle.com/asad1m9a9h6mood/news-articles |
 | Предсказать стоимость квартиры | Предсказать стоимость квартиры | https://www.kaggle.com/c/sberbank-russian-housing-market |
 
